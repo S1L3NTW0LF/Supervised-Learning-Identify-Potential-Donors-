@@ -17,7 +17,7 @@ Recommended to install [Anaconda](https://www.continuum.io/downloads), a pre-pac
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory and run one of the following commands:
 
 ```bash
 ipython notebook finding_donors.ipynb
